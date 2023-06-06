@@ -28,7 +28,7 @@ The DistPlot shows the Distribution of Overall.
 
 ### Scatter Plot of Overall vs Value(in_Euro).
 
-![[Overall vs Value](https://github.com/001-Shubham/Fifa-2023-Research-Decision-Tree-Regressor/assets/135433418/5fa3d40f-0e82-4670-8aeb-87db5f58cf68)
+![Overall vs Value](https://github.com/001-Shubham/Fifa-2023-Research-Decision-Tree-Regressor/assets/135433418/5fa3d40f-0e82-4670-8aeb-87db5f58cf68)
 
 Here's an exponential growth in Value(in Euro) of a Player as Overall i.e. Overall Rating of a player increases...
 
