@@ -16,7 +16,7 @@ https://www.kaggle.com/code/emirtatlc/fifa-23-players-eda-data-cleaning
 
 ### CountPlot of Overall.
 
-[CounPlot Overall](https://github.com/001-Shubham/Fifa-2023-Research-Decision-Tree-Regressor/assets/135433418/5985f69a-a47a-4245-a12c-60dffa454f68)
+![CountPlot Overall](https://github.com/001-Shubham/Fifa-2023-Research-Decision-Tree-Regressor/assets/135433418/3a13998d-a6fd-44a9-ae59-b181bec46ae9)
 
 Players with Overall Rating are Maximum in the range of 62-70 out of 100 being 47 as min and 91 as max...!
    
