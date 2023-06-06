@@ -3,13 +3,14 @@ Builded a Regression Model on a Dataset 'Fifa 2023 Research' which can be downlo
 https://www.kaggle.com/datasets/babatundezenith/fifa-archive?select=Fifa_23_Players_Data.csv
 
 Used Regressive Feature Elimination(RFE) feature selection method to get the features that are majorly correlated with the Label Feature i.e. Value(in Euro).
+
 Engineered the Model to show the Relationship between Value(in Euro) and the Multiple Features using Decision Tree Regressor.
 
 # Data
-The Data contains 17529 records and 89 features that ultimately lead in deciding a Player's  Value(in Euro).
-No NULL Values.
-Dropped the irrelevant Features.
-Data Cleaning has been referred by the a code available on Kaggle by EMIR T. and you can access it through the link.
+1. The Data contains 17529 records and 89 features that ultimately lead in deciding a Player's  Value(in Euro).
+2. No NULL Values.
+3. Dropped the irrelevant Features.
+4. Data Cleaning has been referred by the a code available on Kaggle by EMIR T. and you can access it through the link.
 https://www.kaggle.com/code/emirtatlc/fifa-23-players-eda-data-cleaning
 
 # EDA
