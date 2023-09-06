@@ -1,5 +1,5 @@
 # Fifa-2023-Research-Decision-Tree-Regression
-Builded a Regression Model on a Dataset 'Fifa 2023 Research' which can be downloaded from the given link.
+Built a Regression Model on a Dataset 'Fifa 2023 Research' which can be downloaded from the given link.
 https://www.kaggle.com/datasets/babatundezenith/fifa-archive?select=Fifa_23_Players_Data.csv
 
 Used Recurssive Feature Elimination(RFE) feature selection method to get the features that are majorly correlated with the Label Feature i.e. Value(in Euro).
