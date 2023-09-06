@@ -2,7 +2,7 @@
 Builded a Regression Model on a Dataset 'Fifa 2023 Research' which can be downloaded from the given link.
 https://www.kaggle.com/datasets/babatundezenith/fifa-archive?select=Fifa_23_Players_Data.csv
 
-Used Regressive Feature Elimination(RFE) feature selection method to get the features that are majorly correlated with the Label Feature i.e. Value(in Euro).
+Used Recurssive Feature Elimination(RFE) feature selection method to get the features that are majorly correlated with the Label Feature i.e. Value(in Euro).
 
 Engineered the Model to show the Relationship between Value(in Euro) and the Multiple Features using Decision Tree Regressor.
 
